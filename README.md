@@ -42,6 +42,10 @@ should be (not tested)
 
 Then copy the downloaded GaiaSource_000-xxx-yyy.csv.gz files into this repository folder, so they are at the same level as the main.py file.
 
+## References
+
+Seeks to answer https://astronomy.stackexchange.com/questions/50619/what-1-x-1-region-is-the-optically-darkest-patch-in-the-sky
+
 ## Usage
 
 `python main.py`
